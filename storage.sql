@@ -3,4 +3,4 @@ select
 	state,
 	size,
 	age
-from users
+from user
