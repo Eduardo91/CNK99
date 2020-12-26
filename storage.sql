@@ -4,3 +4,4 @@ select
 	size,
 	age
 from user
+where name = 'Eduardo'
