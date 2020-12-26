@@ -6,3 +6,4 @@ select
 from user
 where name = 'Eduardo'
 and state = 'Gto'
+and age = 30
