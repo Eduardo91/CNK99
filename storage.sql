@@ -6,5 +6,5 @@ select
 from user
 where name = 'Eduardo'
 and state = 'Gto'
-and age = 30
+and age = 28
 and size = 'Large'
