@@ -8,3 +8,4 @@ where name = 'Eduardo'
 and state = 'Gto'
 and age = 30
 and size = 'Large'
+group by size
