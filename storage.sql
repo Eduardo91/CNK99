@@ -4,7 +4,7 @@ select
 	size,
 	age
 from user
-where name = 'Eduardo'
+where name = 'Luis Eduardo'
 and state = 'Gto'
 and age = 25
 and size = 'Large'
