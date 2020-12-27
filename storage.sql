@@ -8,5 +8,5 @@ where name = 'Luis Eduardo'
 and state = 'Gto'
 and age = 25
 and size = 'Large'
-group by size
+group by size, age
 
